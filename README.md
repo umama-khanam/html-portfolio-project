@@ -16,9 +16,9 @@ https://umama-khanam.github.io/html-portfolio-project/
 
 ## 🧾 Sections Included
 
-- **Header** with your name/title
-- **About Me**: a short introduction
+- **Header** 
 - **Projects-Movie ranking project/Birthday invite project**
+- **About Me**: a short introduction
 - **Contact Information**
 
 
